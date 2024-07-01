@@ -1,0 +1,19 @@
+1. Simple Selector
+2. Combinator Selectors
+3. Pseudo-class Selectors
+4. Pseudo-element Selectors
+5. Attribute Selector
+
+
+Simple selectors are further classified like:
+1. Element Selector (by element name)
+2. Id Selector(#idname)
+3. Class Selector(.classname)
+4. Universal Selector(*)
+5. Grouping selectors( grouping differnt selectors by using comma)
+
+2. Combinator Selector
+1. Descendant Selector (all children inside that element eg: div p)
+2. Child Selector (only direct descendant or child eg: div>p)
+3. Adjacent Sibling Selector( the sibling directly adjacent to the element eg: div+p)
+4. General Sibling Selector (all siblings that is the elements on the same level)
